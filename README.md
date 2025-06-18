@@ -22,4 +22,4 @@ A simple and elegant feedback form built using **HTML, CSS, and JavaScript** tha
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nishanth-G-03/day05-form-localstorage.git
+   git clone https://github.com/Nishanth-G-03/form_handling.git
